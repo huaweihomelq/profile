@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+### IntelliJ IDEA ###
+.idea
+target
+*.iws
+*.iml
+*.ipr
+*.log
+/logs
+.jar
+*.gz
+*/target
+
